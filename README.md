@@ -44,5 +44,7 @@ siwp2005_steven_wijaya_sorting
 │       ├── test_insertion_sort.py
 │       └── test_quick_sort.py
 ```
+pip install -i https://test.pypi.org/simple/ siwp2005-stevenwijaya-sorting    my package
+
 
 
